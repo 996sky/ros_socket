@@ -1,0 +1,8 @@
+prefix=/home/rinspace/Codes/Ros/myfirst_ws/devel
+
+Name: Socket
+Description: Description of Socket
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
