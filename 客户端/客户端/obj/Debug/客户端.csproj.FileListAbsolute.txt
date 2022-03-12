@@ -1,0 +1,10 @@
+F:\Codes\C#\客户端\客户端\bin\Debug\客户端.exe.config
+F:\Codes\C#\客户端\客户端\bin\Debug\客户端.exe
+F:\Codes\C#\客户端\客户端\bin\Debug\客户端.pdb
+F:\Codes\C#\客户端\客户端\obj\Debug\客户端.csproj.AssemblyReference.cache
+F:\Codes\C#\客户端\客户端\obj\Debug\客户端.Form1.resources
+F:\Codes\C#\客户端\客户端\obj\Debug\客户端.Properties.Resources.resources
+F:\Codes\C#\客户端\客户端\obj\Debug\客户端.csproj.GenerateResource.cache
+F:\Codes\C#\客户端\客户端\obj\Debug\客户端.csproj.CoreCompileInputs.cache
+F:\Codes\C#\客户端\客户端\obj\Debug\客户端.exe
+F:\Codes\C#\客户端\客户端\obj\Debug\客户端.pdb
